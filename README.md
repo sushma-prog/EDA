@@ -1,4 +1,4 @@
-# 📊 Week 6: Exploratory Data Analysis (EDA) – Summary
+# 📊 Exploratory Data Analysis (EDA) – Summary
 
 This week focused on building strong data exploration skills using Python. I explored real-world datasets, applied visualizations, discovered correlations, engineered features, and practiced on a Kaggle dataset.
 
